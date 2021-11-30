@@ -12,7 +12,7 @@
 
 Enthusiast of the best web, mobile and desktop development technologies.
 
-##### ReactJS | NextJS | React Native | Electron | Rest API | UI and UX
+##### ReactJS | NextJS | React Native | Electron | Rest API | UI and UX | Laravel | NodeJS
 
 ##### `I'm full stack developer`
 
