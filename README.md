@@ -31,6 +31,7 @@ Write well-structured, efficient, and testable code using software development b
 
 ## 🎯 Sites
 
+- https://ekantika-ui.netlify.app/
 - https://spider-v01.netlify.app/
 - https://aprpba.com/
 - https://kulanda.netlify.app/
